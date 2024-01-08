@@ -1,15 +1,14 @@
 main{
-    
+     
    
 }
 .new-year{
-    
+     /* border:#F00 solid 5px;  */
      height:450px;
      width:1200px;
      background-image: url('resources/Banner\ Image.png');background-repeat: no-repeat;
      background-size:1200px 450px;
-     margin:0px auto ;
-       
+     margin:0px auto ;  
      border-radius: 16px;
 }
 .new-year-title{
@@ -28,6 +27,7 @@ main{
 
 /* 65% off section */
 .off{
+    /* border:#F00 solid 5px; */
     font-family: 'Inter', sans-serif;
     text-align: center;
 }
@@ -48,6 +48,7 @@ main{
 .midnight-full-container{
      height:450px;
      width:1200px;
+     /* border:#F00 solid 5px; */
      background-image: url('resources/Vectorrr.png');
      background-repeat: no-repeat;
      background-size:1200px 450px;
@@ -58,7 +59,6 @@ main{
 .midnight-container{
     font-family: 'Merriweather', serif;
     margin:100px 130px;
-    padding:
 }
 
 
@@ -80,4 +80,31 @@ main{
 }
 .im{  
     padding:50px 100px;
+}
+#btn{
+    color:#9a3c3ce0;
+    font-weight: bold;
+}
+.red{
+    color:#F00;
+}
+.venue{
+    height:450px;
+    width:1200px; 
+    margin:80px auto;
+    background-color: antiquewhite;
+    border-radius:13px;
+}
+.venue-details{
+    text-align:center;
+    padding:125px;
+   
+    font-family: 'Inter', sans-serif;
+}
+#venue-button{
+    color:azure;
+    border-radius:5px;
+    margin:15px;
+    padding:10px;
+    background-color: #F00;
 }
