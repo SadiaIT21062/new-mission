@@ -1,4 +1,5 @@
 main{
+    
    
 }
 .new-year{
@@ -21,3 +22,30 @@ font-family: 'Merriweather', serif;
 .title{
     font-size:42px;
 }
+
+/* 65% off section */
+.off{
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.off-title{
+    margin:100px;
+}
+.main-off-title{
+    color: #F00;
+    font-size: 45px;
+    font-weight: 700;
+}
+.small-title{
+
+    color:#F00;
+}
+/* midnight section */
+.midnight-container{
+    font-family: 'Merriweather', serif;
+    margin:100px 130px;
+    padding:
+}
+/* .midnight-title{
+
+} */
