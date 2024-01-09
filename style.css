@@ -175,18 +175,19 @@
     margin-left:-4.5px;
     padding:10px;
 }
-footer{
+.footer{
     background: #070211;
-    margin:0 auto;
+
 }
-.foot-icon{
-    text-align: center;
-}
+
 .foot-first{
     color:#FFF;
     font-family: 'Inter', sans-serif;
     display:flex;
     justify-content:space-between;
+}
+.foot-icon{
+    text-align: center;
 }
 .foot-second{
     color:#FFF;
@@ -196,18 +197,28 @@ footer{
     
 }
 .left-up{
+    
+    max-width:400px;
     margin:100px 0 50px 100px;
-    max-width:350px;
+    
 }
 .left-bottom{
+    
+    
+    max-width:400px;
     margin:50px 0 100px 100px;
-    max-width:350px;
+
 }
 .right-up{
+   
+    
+    max-width:400px;
     margin:100px 100px 50px 0;
-    max-width:350px;
+
 }
 .right-bottom{
+    max-width:400px; 
+
     margin:50px 100px 100px 0;
 }
 .circle{
@@ -260,7 +271,7 @@ footer{
 }
 
 .hard{
-    
+
     width:1200px;
     margin:0px auto 100px;
 }
