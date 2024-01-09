@@ -22,6 +22,8 @@
 
 /* 65% off section */
 .off{
+    width:1200px;
+    margin:0 auto;
     /* border:#F00 solid 5px; */
     font-family: 'Inter', sans-serif;
     text-align: center;
@@ -50,6 +52,7 @@
      margin:0px auto ; 
      display:flex;
 }
+
 
 .midnight-container{
     font-family: 'Merriweather', serif;
@@ -102,4 +105,24 @@
     margin:15px;
     padding:10px;
     background-color: #F00;
+}
+.portfolio{
+    /* text-align:center; */
+    /* border:#F00 solid 2px; */
+    width:1200px;
+    margin:0 auto;
+}
+.portfolio-title{
+    font-size: 32px;
+    font-family: 'Merriweather', serif ;
+    margin-top:-5px;
+}
+.portfolio-description{
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+}
+.pic{
+    border-radius:16px;
+    margin:5.5px;
+    padding-left:5px;
 }
