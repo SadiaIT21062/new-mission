@@ -258,12 +258,11 @@ footer{
     max-width:400px;
     margin:auto;
 }
+
 .hard{
-    border:#070211 solid 5px;
+    
     width:1200px;
-    margin:0 auto;
+    margin:0px auto 100px;
 }
-.hard-part{
-    /* display:flex; */
-}
+
     
