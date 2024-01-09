@@ -169,3 +169,33 @@
     margin-left:-4.5px;
     padding:10px;
 }
+footer{
+    background: #070211;
+    margin:0 auto;
+}
+.foot-icon{
+    text-align: center;
+}
+.footfirst,.footsecond{
+    color:#FFF;
+    font-family: 'Inter', sans-serif;
+    display:flex;
+    justify-content:space-between;
+    
+}
+.left-up{
+    margin:100px 0 50px 100px;
+    max-width:350px;
+}
+.left-bottom{
+    margin:50px 0 100px 100px;
+    max-width:350px;
+}
+.right-up{
+    margin:100px 100px 50px 0;
+    max-width:350px;
+}
+.right-bottom{
+    margin:50px 100px 100px 0;
+}
+    
