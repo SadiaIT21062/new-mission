@@ -116,13 +116,56 @@
     font-size: 32px;
     font-family: 'Merriweather', serif ;
     margin-top:-5px;
+    margin-left:4px;
+}
+.gifts{
+    margin-left:4px;
 }
 .portfolio-description{
     font-family: 'Inter', sans-serif;
     font-weight: 100;
+    margin-bottom:50px;
+    margin-left:4px;
 }
 .pic{
+    /* border:#F00 solid 5px; */
     border-radius:16px;
     margin:5.5px;
-    padding-left:5px;
+    padding:2px;
+   
+}
+.subscriber{
+    width:1200px;
+    margin:100px auto;
+    background-color: rgba(255, 0, 0, 0.05);
+    text-align:center;
+   
+    padding:100px 0;
+    font-family: 'Merriweather', serif ;
+}
+.subscriber-title{
+    color: #070211;
+    font-size: 35px;
+}
+.subscriber-description{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    margin-top:-10px;
+    margin-bottom:50px;
+   
+}
+#input{
+    border-radius: 20px 0 0 20px;
+    border:#FFF solid 2px;
+    padding:10px;
+    margin-right:0;
+}
+#subscribe-btn{
+    border-radius:0 20px 20px 0;
+    border:#F00 solid 2px;
+    background-color:red;
+    color:#FFF;
+    margin-left:-4.5px;
+    padding:10px;
 }
