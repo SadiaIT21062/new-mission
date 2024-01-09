@@ -134,6 +134,12 @@
     padding:2px;
    
 }
+.pic-one{
+    display:flex;
+}
+.pic-two{
+    display:flex;
+}
 .subscriber{
     width:1200px;
     margin:100px auto;
@@ -176,7 +182,13 @@ footer{
 .foot-icon{
     text-align: center;
 }
-.footfirst,.footsecond{
+.foot-first{
+    color:#FFF;
+    font-family: 'Inter', sans-serif;
+    display:flex;
+    justify-content:space-between;
+}
+.foot-second{
     color:#FFF;
     font-family: 'Inter', sans-serif;
     display:flex;
@@ -197,5 +209,61 @@ footer{
 }
 .right-bottom{
     margin:50px 100px 100px 0;
+}
+.circle{
+    width:1200px;
+    margin:0 auto 100px;
+    display: flex;
+    
+}
+.circle-part{
+    width:350px;
+    margin:auto;
+}
+.image{
+    margin:auto; 
+    padding:12px; 
+    border:#F00 solid 7px;
+    border-radius:1000%; 
+}
+
+.come{
+    font-size:30px;
+    font-family: 'Merriweather', serif ;
+}
+.circle-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-weight: 400;
+}
+.year{
+    font-size: 30px;
+}
+.what-is-functional{
+    width:1200px;
+    margin:100px auto;
+    font-family: Inter;
+}
+.summary{
+    text-align:center;
+}
+.main-title{
+    font-size:50px;
+    font-family: 'Merriweather', serif ;
+    margin-top:-7px;
+}
+.functional-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    max-width:400px;
+    margin:auto;
+}
+.hard{
+    border:#070211 solid 5px;
+    width:1200px;
+    margin:0 auto;
+}
+.hard-part{
+    /* display:flex; */
 }
     
